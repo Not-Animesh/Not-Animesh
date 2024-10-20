@@ -1,4 +1,5 @@
 ## Hi there 👋
+Author - Animesh 
 
 <!--
 **Not-Animesh/Not-Animesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
